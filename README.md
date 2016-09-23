@@ -1,4 +1,4 @@
 # hello-world
-mason's badass repository
+mason's repository
 
 Here explains and elaborates why Mason is so extraordinary.
